@@ -34,7 +34,7 @@ go test -bench=. ./benchmarks
 ```
 
 ## Пример полученных результатов
-```
+```sh
 goos: windows
 goarch: amd64
 pkg: github.com/KazikovAP/benchmarks/benchmarks
